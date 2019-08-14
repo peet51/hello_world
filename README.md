@@ -1,2 +1,2 @@
 # hello_world
-just first repository
+Although completely newbie in this stuff, keep going...
